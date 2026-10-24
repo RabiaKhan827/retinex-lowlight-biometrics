@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=65.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "retinex-lowlight-biometrics"
+version = "1.0.0"
+description = "Physics-informed Multi-Scale Retinex low-light image enhancement and LBP facial biometrics pipeline."
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+authors = [{name = "Rabia Khan", email = "rabiakhan13309@gmail.com"}]
+dependencies = ["numpy>=1.24.0"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
