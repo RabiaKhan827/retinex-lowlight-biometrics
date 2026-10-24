@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Retinex-Based Low-Light Image Enhancement & OpenCV Facial Biometrics"
+message: "If you use this software in your research, please cite this repository."
+type: software
+authors:
+  - family-names: "Khan"
+    given-names: "Rabia"
+    email: "rabiakhan13309@gmail.com"
+    affiliation: "University of Haripur & PAF-IAST"
+license: MIT
+version: 1.0.0
+date-released: "2026-10-24"
